@@ -11,7 +11,7 @@ El análisis se lleva a cabo sobre un Dataset expandido que incluye el listado d
 ---
 
 ## 👥 Integrantes del Equipo
-* *Tu Nombre Completo*
+* *Dairon Valencia Campaz*
 * *Nombre del Integrante 2*
 * *Nombre del Integrante 3*
 * *Nombre del Integrante 4*
