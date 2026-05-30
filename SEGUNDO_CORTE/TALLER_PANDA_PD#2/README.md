@@ -1,4 +1,4 @@
-**# Taller de Inteligencia Artificial (Librería Pandas) - Corte II 🚀
+**# Taller de Inteligencia Artificial (Librería Pandas) - Corte II 
 **Programa de Ingeniería de Sistemas** | *Universidad del Pacífico*
 
 ---
@@ -12,11 +12,10 @@ El análisis se lleva a cabo sobre un Dataset expandido que incluye el listado d
 
 ## 👥 Integrantes del Equipo
 * *Dairon Valencia Campaz*
-* *Nombre del Integrante 2*
-* *Nombre del Integrante 3*
-* *Nombre del Integrante 4*
+* *Karol Caicedo Moreno*
+* *Luisa Gonzalez Delgado*
+* *Elkin Chalarca*
 
-*(Equipo conformado bajo los criterios de asistencia del 25 de mayo de 2026)*
 
 ---
 
@@ -72,4 +71,4 @@ El proyecto está estructurado de manera lineal siguiendo estrictamente el talle
 * **Jupyter Notebook / Google Colab**
 
 ---
-*Fecha límite de entrega: Viernes 29 de mayo de 2026 - 10:00 pm***
+Link del Taller: https://drive.google.com/file/d/1-DtwDV-b9RtuSkZLlvDrgK9atUrgAhYl/view?usp=sharing
